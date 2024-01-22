@@ -34,3 +34,7 @@ In this project, we aim to automate the analysis of video content using computer
    - The automation ensures seamless execution of the entire workflow.
 
 
+
+
+https://github.com/DhalavaiN/Video-TO-Text/assets/114598386/4cc35c25-9d15-4016-bd4c-c3f64d2c2f0d
+
